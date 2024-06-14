@@ -1,0 +1,4 @@
+Creating a login and registration page using React.js involves several steps. 
+A Guide through setting up a basic application with React Router for navigation, 
+created both login and registration components. For simplicity, It does not include backend functionality, 
+but it will provide a solid foundation for integrating with an API later.
